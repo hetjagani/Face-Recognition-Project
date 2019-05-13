@@ -5,3 +5,4 @@
 * The iPython notebooks are intended to run in Google colab.
 * The models are also saved in files, so it can be loaded and used.
 * The model structure and some hints from the code might be helpful to some of you.
+* Files `facenet_weights.h5` `shape_predictor_68_face_landmarks.dat` `emotion_cnn_clf.h5` are not included in the repo as the file size was larger than github limit, please google it out to find these files.
